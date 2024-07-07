@@ -1,1 +1,1 @@
-# Das ist der große und öffentliche Sammeltopf
+# Das ist mein großer und öffentliche Sammeltopf
